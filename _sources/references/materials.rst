@@ -3,7 +3,7 @@ Videos, Slides, and Projects
 
 **Course videos**
 
-Available soon
+* Course videos: https://youtube.com/playlist?list=PL6rnfqheqj4c6udRp19SGfAQI1r1FOoSk&si=YENbFMbb_Sd5Lwpt
 
 **Course slides**
 
